@@ -1,0 +1,30 @@
+{
+    "contact1":{
+        "firstName":"David", 
+        "lastName":"Carrasco", 
+        "email":"david.carrasco@gmail.com", 
+        "favoriteColor":"blue",
+        "birthday":"04/07/1990"
+    },
+    "contact2":{
+        "firstName":"Pamela", 
+        "lastName":"Narvaez", 
+        "email":"pamela.narvaez@gmail.com", 
+        "favoriteColor":"pink",
+        "birthday":"11/25/1990"
+    },
+    "contact3":{
+        "firstName":"Andrea", 
+        "lastName":"Escobar", 
+        "email":"andrea.escobar@gmail.com", 
+        "favoriteColor":"red",
+        "birthday":"01/29/1990"
+    },
+    "contact4":{
+        "firstName":"Max", 
+        "lastName":"Carrasco", 
+        "email":"max.carrasco@gmail.com", 
+        "favoriteColor":"green",
+        "birthday":"10/31/1990"
+    }
+}
