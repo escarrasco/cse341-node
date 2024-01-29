@@ -26,5 +26,12 @@
         "email":"max.carrasco@gmail.com", 
         "favoriteColor":"green",
         "birthday":"10/31/1990"
+    },
+    "contact5":{
+        "firstName":"Dom", 
+        "lastName":"Escobar", 
+        "email":"dom.escobar@gmail.com", 
+        "favoriteColor":"purple",
+        "birthday":"08/12/2004"
     }
 }
